@@ -504,3 +504,19 @@ else:
 '''
 
 # ++++++++++++++++++++++++++++++++
+
+# 15. sum of first n Natural numbers
+
+'''
+num = int(input("Enter first n Natural numbers : "))
+
+sum = 0
+
+for i in range(1, num + 1):
+    sum = sum + i
+
+print("Sum of first", num,"natural numbers is", sum)
+
+'''
+
+# ++++++++++++++++++++++++++++++++
