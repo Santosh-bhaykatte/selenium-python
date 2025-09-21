@@ -18,6 +18,12 @@ driver.get("https://omayo.blogspot.com")
 time.sleep(5)
 
 driver.back()
-
 time.sleep(5)
+
+driver.forward()
+time.sleep(4)
+
+driver.refresh()
+time.sleep(5)
+
 driver.close()

@@ -1,7 +1,7 @@
 # Selenium
-# Open-Source
+# Open-Source - Automation testing framework
 # Supports different browsers [Safari, Chrome, Edge]
-# Supports different OS [Windows, mac]
+# Supports different OS [Windows, mac, Linux]
 # Supports different lang [python, kotlin, ruby, java, javaScript]
 
 import time
